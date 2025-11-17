@@ -1,0 +1,1688 @@
+{
+    "_updatedAt": "2025-08-02 01:39:22",
+    "nicPnList": [
+    {
+        "brand": "Mellanox",
+        "pn": "MCX623430MS-CDAB",
+        "Type": "双口"
+    }],
+    "raidPnList": [
+    {
+        "brand": "Nettrix",
+        "pn": "24002444",
+        "Type": "4块盘"
+    }],
+    "fanPnList": [
+    {
+        "brand": "AVC",
+        "pn": "DBPG0638B2SP036",
+        "Type": "内置"
+    },
+    {
+        "brand": "SUNON",
+        "pn": "XG40561BX-1Q11C-S9H",
+        "Type": "外置"
+    }],
+    "psuPnList": [
+    {
+        "brand": "Great Wall",
+        "pn": "CRPS2700D2",
+        "Type": "电源2700W"
+    },
+    {
+        "brand": "Great Wall",
+        "pn": "GW-CRPS1600D2W",
+        "Type": "电源1600W"
+    },
+    {
+        "brand": "Great Wall",
+        "pn": "GW-CRPS1300D2WM",
+        "Type": "电源1300W"
+    },
+    {
+        "brand": "ASPOWER",
+        "pn": "U1A-D1300-L-14",
+        "Type": "电源"
+    }],
+    "motherboardPnList": [
+    {
+        "brand": "Nettrix",
+        "pn": "24003809",
+        "Type": "主板"
+    },
+    {
+        "brand": "Nettrix",
+        "pn": "24003557",
+        "Type": "主板"
+    }],
+    "aocPnList": [
+    {
+        "brand": "Finisar",
+        "pn": "FCBN950QE1C10",
+        "Type": "一分二(10米)"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "ATRP-B005",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "ATRP-B007",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "ATRP-B010",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "ATRP-B020",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "C-PD2FNM005-N00",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "C-PD2FNM007-N00",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "C-PD2FNM010-N00",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "DMM8211-DC05",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "DMM8211-DC07",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "DMM8211-DC10",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "DMM8211-DC20",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "DME8811-EC10",
+        "Type": "一分二(10米)"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "DME8811-EC20",
+        "Type": "一分二(20米)"
+    },    
+    {
+        "brand": "WTD",
+        "pn": "RTXM520-105",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM520-107",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM520-110",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM520-120",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM500-905",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM500-910",
+        "Type": "AOC线缆"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM500-920",
+        "Type": "一分二(20米)"
+    }],
+    "opticPnList": [
+    {
+        "brand": "Hisense",
+        "pn": "LMS3821L-PCS",
+        "Type": "800G-2xDR4-OSFP-LPO"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "L-OH8CNT-N00",
+        "Type": "800G-2xDR4-OSFP-LPO"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM600-230",
+        "Type": "800G-2xDR4-OSFP-LPO"
+    },
+    {
+        "brand": "Huawei",
+        "pn": "OM3877FX201",
+        "Type": "800G-OSFP-2*FR4"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "MTRO-F6F6C",
+        "Type": "800G-OSFP-2*FR4"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTCE4717E1PCB-BY",
+        "Type": "800G-OSFP-2*FR4"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM600-210",
+        "Type": "800G-OSFP-2*FR4"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "T-OL8CNT-N00",
+        "Type": "800G-OSFP-2*FR4"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "LMS3826-PC+",
+        "Type": "800G-OSFP-2*FR4"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM500-404",
+        "Type": "400G-QSFP-DD-DR4+"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTCD4533E2PxM",
+        "Type": "400G-QSFP-DD-DR4+"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "MQD-36F2C",
+        "Type": "400G-QSFP-DD-DR4+"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "LMQ3921S-PC+",
+        "Type": "400G-QSFP-DD-DR4+"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "T-DP4CNT-N00",
+        "Type": "400G-QSFP-DD-DR4+"
+    },
+    {
+        "brand": "Arista",
+        "pn": "QDD-400G-FR4",
+        "Type": "400G-QSFP-DD-FR4"
+    },
+    {
+        "brand": "H3C",
+        "pn": "QSFPDD-400G-FR4-WDM1300",
+        "Type": "400G-QSFP-DD-FR4"
+    },
+    {
+        "brand": "Cisco",
+        "pn": "QDD-400G-FR4-S",
+        "Type": "400G-QSFP-DD-FR4"
+    },
+    {
+        "brand": "Huawei",
+        "pn": "OM3660FX102",
+        "Type": "400G-QSFP-DD-FR4"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTCD4313E2PCL",
+        "Type": "400G-QSFP-DD-FR4"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "MQD-56F2C",
+        "Type": "400G-QSFP-DD-FR4"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "LMQ3926-PC+",
+        "Type": "400G-QSFP-DD-FR4"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "T-DQ4CNT-N00",
+        "Type": "400G-QSFP-DD-FR4"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM500-410",
+        "Type": "400G-QSFP-DD-FR4"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTCD4313E1PCL",
+        "Type": "400G-QSFP-DD-FR4"
+    },
+    {
+        "brand": "Huawei",
+        "pn": "OM3680SX200",
+        "Type": "400G-QSFP-DD-SR8"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTCD8613E2PCM-BY",
+        "Type": "400G-QSFP-DD-SR8"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "MQD-12F1C",
+        "Type": "400G-QSFP-DD-SR8"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "LMQ8811-PC+",
+        "Type": "400G-QSFP-DD-SR8"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "T-DQ8FNS-N00",
+        "Type": "400G-QSFP-DD-SR8"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM500-560",
+        "Type": "400G-QSFP-DD-SR8"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTCD8613E1PCM",
+        "Type": "400G-QSFP-DD-SR8"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "T-DQ8FNS-N01",
+        "Type": "400G-QSFP-DD-SR8"
+    },
+    {
+        "brand": "Huawei",
+        "pn": "TR-FC13V-N00-Huawei",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "Arista",
+        "pn": "100GBASE-CWDM4 QSFP100",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "H3C",
+        "pn": "QSFP-100G-LR4L-WDM1300",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "WTD",
+        "pn": "OEO-M100-73-13-Q28",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "Alibaba",
+        "pn": "AB-QT0613C4nL",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTLC1157RGPL",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "MTRQ-4CF51",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "GIGALIGHT",
+        "pn": "GQS-SPO101-CIR4C",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "LTA1328-PC+",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "TR-FC13T-N00",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM420-431",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "AVAGO",
+        "pn": "AFCT-89WDDZ",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTLC1155RGPL",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTLC1152RGPL",
+        "Type": "100G-QSFP28-CWDM4"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTLC9559REPM",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "Huawei",
+        "pn": "RTXM420-550-Huawei",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "Huawei",
+        "pn": "MTRQ-4S101-Huawei",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "H3C",
+        "pn": "QSFP-100G-SR4-MM850",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "WTD",
+        "pn": "OEO-M100-64-85-Q28",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "Arista",
+        "pn": "QSFP-100G-SR4-P",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "Alibaba",
+        "pn": "AB-QT0685S4n",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "AVAGO",
+        "pn": "AFBR-89CDHZ",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "MTRQ-4S101",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "GIGALIGHT",
+        "pn": "GQS-MPO101-SR4CL",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "LTA8531-PC+",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "TR-FC85S-N00",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM420-550",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "AVAGO",
+        "pn": "AFBR-89CDDZ",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTLC9558REPM",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTLC9551REPM",
+        "Type": "100G-QSFP28-SR4"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM500-210",
+        "Type": "100G-QSFP28-DR1+"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTLC4352RJPL",
+        "Type": "100G-QSFP28-DR1+"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "LMQ3321-PC1",
+        "Type": "100G-QSFP28-DR1+"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "MTRQ-1DF51",
+        "Type": "100G-QSFP28-DR1+"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "TR-ZC13T-N00",
+        "Type": "100G-QSFP28-DR1+"
+    },
+    {
+        "brand": "Cisco",
+        "pn": "SFP-10G-SR-Cisco",
+        "Type": "10G-SFP-SR"
+    },
+    {
+        "brand": "Arista",
+        "pn": "SFP-10G-SR",
+        "Type": "10G-SFP-SR"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM228-551",
+        "Type": "10G-SFP-SR"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTLX8574D3BCL",
+        "Type": "10G-SFP-SR"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "LTF8502-BC+",
+        "Type": "10G-SFP-SR"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "MTRS-01X11-G",
+        "Type": "10G-SFP-SR"
+    },
+    {
+        "brand": "Cisco",
+        "pn": "SFP-10G-SR-S",
+        "Type": "10G-SFP-SR"
+    },
+    {
+        "brand": "H3C",
+        "pn": "SFP-XG-LX-SM1310",
+        "Type": "10G-SFP-LR"
+    },
+    {
+        "brand": "H3C",
+        "pn": "SPP10ELRCDFF-H3C",
+        "Type": "10G-SFP-LR"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTLX1471D3BCL",
+        "Type": "10G-SFP-LR"
+    },
+    {
+        "brand": "HG GENUINE",
+        "pn": "MTRS-02X13",
+        "Type": "10G-SFP-LR"
+    },
+    {
+        "brand": "GIGALIGHT",
+        "pn": "GPP-31192-LRC",
+        "Type": "10G-SFP-LR"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "LTF1305-BC+",
+        "Type": "10G-SFP-LR"
+    },
+    {
+        "brand": "INNOLIGHT",
+        "pn": "TR-PX13L-N00",
+        "Type": "10G-SFP-LR"
+    },
+    {
+        "brand": "WTD",
+        "pn": "RTXM228-401",
+        "Type": "10G-SFP-LR"
+    },
+    {
+        "brand": "AVAGO",
+        "pn": "AFCT-739SMZ",
+        "Type": "10G-SFP-LR"
+    },
+    {
+        "brand": "Finisar",
+        "pn": "FTLX1475D3BCL",
+        "Type": "10G-SFP-LR"
+    }],
+    "diskPnList": [
+    {
+        "brand": "Intel",
+        "pn": "SSDPF2KX076T1",
+        "Type": "NVMe/7.68TB"
+    },
+    {
+        "brand": "Intel",
+        "pn": "SSDPF2KX038T1",
+        "Type": "NVMe/3.84TB"
+    },
+    {
+        "brand": "KIOXIA",
+        "pn": "KCD81RUG3T84",
+        "Type": "NVMe/3.84TB"
+    },
+    {
+        "brand": "KIOXIA",
+        "pn": "KCD81RUG7T68",
+        "Type": "NVMe/7.68TB"
+    },
+    {
+        "brand": "KIOXIA",
+        "pn": "KCD81RUG1T92",
+        "Type": "NVMe/1.92TB"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "MZQL21T9HCJR-00B7C",
+        "Type": "NVMe/1.92TB"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "MZQL23T8HCLS-00B7C",
+        "Type": "NVMe/3.84TB"
+    },
+    {
+        "brand": "Seagate",
+        "pn": "ST20000NM007D",
+        "Type": "HDD/20TB"
+    },
+    {
+        "brand": "Seagate",
+        "pn": "ST8000NM017B",
+        "Type": "HDD/8TB"
+    },
+    {
+        "brand": "Union Memory",
+        "pn": "UP2A63T8SD004LX",
+        "Type": "NVMe/3.84TB"
+    },
+    {
+        "brand": "Western Digital",
+        "pn": "WUH722020BLE604",
+        "Type": "HDD/20TB"
+    },
+    {
+        "brand": "Western Digital",
+        "pn": "HUS728T8TALE6L4",
+        "Type": "HDD/8TB"
+    },
+    {
+        "brand": "ByteDance",
+        "pn": "BD1124T091T03T8N4",
+        "Type": "NVMe/3.84TB"
+    }],
+    "cpuPnList": [
+    {
+        "brand": "Intel",
+        "pn": "Intel(R) Xeon(R) Platinum 8336C CPU @ 2.30GHz",
+        "Type": "CPU"
+    },
+    {
+        "brand": "Intel",
+        "pn": "Intel(R) Xeon(R) Platinum 8457C CPU @ 2.60GHz",
+        "Type": "CPU"
+    },
+    {
+        "brand": "Intel",
+        "pn": "Intel(R) Xeon(R) Platinum 8582C CPU @ 2.60GHz",
+        "Type": "CPU"
+    },
+    {
+        "brand": "AMD",
+        "pn": "AMD EPYC 9Y24",
+        "Type": "CPU"
+    }],
+    "memoryPnList": [
+    {
+        "brand": "Samsung",
+        "pn": "M321R3GA3PB0-CWM",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M321R6GA3PB0-CWM",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M321RYGA0PB0-CWM",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M321R2GA3PB0-CWM",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M321R4GA3PB0-CWM",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M321R8GA0PB0-CWM",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M321RAGA0B20-CWK",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M321R6GA3BB0-CQK",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M321RYGA0BB0-CQK",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M426R4GA3BB0-CQK",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M321R8GA0BB0-CQK",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M329R8GA0BB0-CQK",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M321R2GA3BB6-CQK",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M321R4GA3BB6-CQK",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M386A8K40BM1-CPB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M386A8K40BM1-CRC",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M386A8K40BM2-CTD",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M386A8K40CM2-CTD",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M391A4G43AB1-CVF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A1G40DB0-CPB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A1G40EB1-CPB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A1G40EB1-CRC",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A1G40EB2-CTD",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A1G43DB0-CPB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A1G43EB1-CRC",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A1K43BB0-CRC",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2G40DB0-CPB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2G40DB1-CRC",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2G40EB1-CRC",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2K40BB0-CPB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2K40BB1-CRC",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2K40BB2-CTD",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2K40CB1-CRC",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2K40CB2-CTD",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2K43BB1-CRC",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2K43BB1-CTD",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2K43CB1-CRC",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2K43CB2-CTD",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2K43CB2-CVF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2K43DB2-CVF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A2K43DB3-CWE",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A4K40BB0-CPB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A4K40BB1-CRC",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A4K40BB2-CTD",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A4K40CB1-CRC",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A4K40CB2-CTD",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A4K40CB2-CVF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A4K40DB2-CVF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A4K40DB3-CWE",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A8G40AB2-CVF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A8G40AB2-CWE",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A8G40CB4-CWE",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A8G40MB2-CVF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393B1G70QH0-YK0",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393B1G73BH0-YK0",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393B1G73EB0-YK0",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393B1G73QH0-YK0",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393B1K70DH0-CK0",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393B2G70BH0-CK0",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393B2G70BH0-YH9",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393B2G70DB0-YK0",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393B2G70EB0-YK0",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393B2G70QH0-YK0",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M474A2K43DB1-CWE",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A4K40BB3-CVF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A4G43BB4-CWE",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Samsung",
+        "pn": "M393A8G40BB4-CWE",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCGY8MGBRB",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCGJ8MGBRB",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCG78AGBRA",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCGM4MGBRB",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCT04MEERA",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCGJ8MEBRB",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCG94AGBRA",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCG88AGBRA",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCGY8MEBRB",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCGM4MEBRB",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCG94AEBRA",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCG88AEBRA",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCG88AGBAA",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCG94MEBRA",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCG94MEBQA",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCG78MEBRA",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMCG88MEBRA",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA41GR7AFR4N-UH",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA41GR7AFR8N-UH",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA41GR7MFR8N-TF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA42GR7AFR3N-TF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA42GR7AFR4N-TF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA42GR7AFR4N-UH",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA42GR7BJR4N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA42GR7MFR4N-TF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA81GR7AFR8N-UH",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA81GR7AFR8N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA81GR7CJR8N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA81GR7MFR8N-UH",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA82GR7AFR4N-UH",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA82GR7AFR4N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA82GR7AFR8N-UH",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA82GR7AFR8N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA82GR7CJR4N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA82GR7CJR8N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA82GR7CJR8N-WM",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA82GR7JJR8N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA82GR7JJR8N-WM",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA82GR7MFR8N-UH",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA84GR7AFR4N-UH",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA84GR7AFR4N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA84GR7CJR4N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA84GR7CJR4N-WM",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA84GR7DJR4N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA84GR7DJR4N-WM",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA84GR7DJR4N-XN",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA84GR7JJR4N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA84GR7JJR4N-WM",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA84GR7MFR4N-TF",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA84GR7MFR4N-UH",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAA4GR7AJR8N-WM",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAA8GL7AMR4N-UH",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAA8GL7AMR4N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAA8GL7CPR4N-VK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAA8GL7CPR4N-WM",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAA8GR7AJR4N-WM",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAA8GR7AJR4N-XN",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAA8GR7CJR4N-XN",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAA8GR7MJR4N-WM",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMT41GR7BFR4A-PB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMT41GR7AFR4A-PB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMT41GR7AFR8A-PB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMT41GR7BFR8A-PB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMT41GR7MFR4A-PB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMT42GR7AFR4A-PB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMT42GR7BFR4A-PB",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMT42GR7MFR4A-H9",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAG84EXNRA",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAG78EXNRA",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAA4GR7AJR8N-XN",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA84GR7CJR4N-XN",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMAA4GR7CJR8N-XN",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Hynix",
+        "pn": "HMA82GR7AFR4NTVK",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC40F204WS1RC56BB1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC40F2046S1RC56BD1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC20F208XS1RC56BB1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC20F2085S1RC56BD1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC40F2046S1RC56BG1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC20F2085S1RC56BG1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC20F208XS1RC48BB1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC40F204WS1RC48BB1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC20C2085S1TC48BA1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC40F2046S1RC48BA1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC36F2046S1PC48BA1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC10F1084S1RC48BA1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTC20F2085S1RC48BA1",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MT18KSF1G72PZ-1G6E1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MT36KSF2G72PZ-1G6E1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA18ASF1G72PDZ-2G3B1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA18ASF1G72PZ-2G3A3",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA18ASF2G72PDZ-2G3B1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA18ASF2G72PDZ-2G3D1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA18ASF2G72PDZ-2G6D1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA18ASF2G72PDZ-2G6E1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA18ASF2G72PDZ-2G6H1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA18ASF2G72PDZ-2G9E1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA18ASF2G72PZ-2G3B1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA18ASF2G72PZ-2G6D1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA18ASF4G72PDZ-2G9E1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA18KSF1G72PDZ-1G6E1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF2G72PZ-2G1A2",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF2G72PZ-2G1B1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF4G72PZ-2G3B1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF4G72PZ-2G3D1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF4G72PZ-2G6D1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF4G72PZ-2G6E1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF4G72PZ-2G6E4",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF4G72PZ-2G6H1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF4G72PZ-2G9E2",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF4G72PZ-2G9J3",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF8G72PZ-2G9B1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF8G72PZ-2G9B2",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF8G72PZ-2G9E1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA36ASF8G72PZ-3G2E1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA72ASS8G72LZ-2G6B2",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA72ASS8G72LZ-2G6D2",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA9ASF1G72PZ-2G3A1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA9ASF1G72PZ-2G3B1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA9ASF1G72PZ-2G6D1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "MTA9ASF1G72PZ-2G6J1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "36ASF4G72PZ-3G2E7",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Micron",
+        "pn": "18ASF4G72PDZ-3G2E1",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Intel",
+        "pn": "NMA1XBD128GQS",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Intel",
+        "pn": "NMA1XXD128GPS",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Intel",
+        "pn": "NMA1XXD256GPS",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Intel",
+        "pn": "NMB1XBD128GQS",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Intel",
+        "pn": "NMB1XBD256GQS",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Intel",
+        "pn": "NMB1XXD128GPS",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Intel",
+        "pn": "NMB1XXD128G2S",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Ramaxel",
+        "pn": "RMRA6331KE68HAF-2133",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Ramaxel",
+        "pn": "RMRA6351MB78HBF-2400",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Ramaxel",
+        "pn": "RMRA6401ME78HBF-2666",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Ramaxel",
+        "pn": "RMS6101EB68FAW-1600",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Ramaxel",
+        "pn": "RMS6091EB74EAW-1600",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "Ramaxel",
+        "pn": "RMS6101ME68FAF-1600",
+        "Type": "DDR4"
+    },
+    {
+        "brand": "CXMT",
+        "pn": "CXMR4E464R8AS",
+        "Type": "DDR5"
+    }]
+}
