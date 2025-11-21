@@ -594,6 +594,11 @@
         "Type": "NVMe/3.84TB"
     },
     {
+        "brand": "Intel",
+        "pn": "SSDPF2KX019T1M",
+        "Type": "NVMe/1.92TB"
+    },
+    {
         "brand": "KIOXIA",
         "pn": "KCD81RUG3T84",
         "Type": "NVMe/3.84TB"
@@ -662,6 +667,11 @@
     {
         "brand": "Intel",
         "pn": "Intel(R) Xeon(R) Platinum 8582C CPU @ 2.60GHz",
+        "Type": "CPU"
+    },
+    {
+        "brand": "Intel",
+        "pn": "Intel(R) Xeon(R) Silver 4314 CPU @ 2.40GHz",
         "Type": "CPU"
     },
     {
