@@ -1,5 +1,5 @@
 {
-    "_updatedAt": "2025-08-02 01:39:22",
+    "_updatedAt": "2025-11-24",
     "nicPnList": [
     {
         "brand": "Mellanox",
@@ -69,7 +69,7 @@
     {
         "brand": "HG GENUINE",
         "pn": "ATRP-B007",
-        "Type": "AOC线缆"
+        "Type": "AOC线缆(7米)"
     },
     {
         "brand": "HG GENUINE",
@@ -89,7 +89,7 @@
     {
         "brand": "INNOLIGHT",
         "pn": "C-PD2FNM007-N00",
-        "Type": "AOC线缆"
+        "Type": "AOC线缆(7米)"
     },
     {
         "brand": "INNOLIGHT",
@@ -104,7 +104,7 @@
     {
         "brand": "Hisense",
         "pn": "DMM8211-DC07",
-        "Type": "AOC线缆"
+        "Type": "AOC线缆(7米)"
     },
     {
         "brand": "Hisense",
@@ -114,7 +114,7 @@
     {
         "brand": "Hisense",
         "pn": "DMM8211-DC20",
-        "Type": "AOC线缆"
+        "Type": "AOC线缆(20米)"
     },
     {
         "brand": "Hisense",
@@ -125,7 +125,17 @@
         "brand": "Hisense",
         "pn": "DME8811-EC20",
         "Type": "一分二(20米)"
-    },    
+    },
+    {
+        "brand": "Hisense",
+        "pn": "DME8811-EC30",
+        "Type": "一分二(30米)"
+    },
+    {
+        "brand": "Hisense",
+        "pn": "DME8811-EC40",
+        "Type": "一分二(40米)"
+    },
     {
         "brand": "WTD",
         "pn": "RTXM520-105",
@@ -134,7 +144,7 @@
     {
         "brand": "WTD",
         "pn": "RTXM520-107",
-        "Type": "AOC线缆"
+        "Type": "AOC线缆(7米)"
     },
     {
         "brand": "WTD",
