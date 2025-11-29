@@ -48,6 +48,11 @@
         "brand": "ASPOWER",
         "pn": "U1A-D1300-L-14",
         "Type": "电源"
+    },
+    {
+        "brand": "LITEON",
+        "pn": "PS-2132-11L1",
+        "Type": "电源1300W"
     }],
     "motherboardPnList": [
     {
