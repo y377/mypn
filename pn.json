@@ -660,6 +660,11 @@
     },
     {
         "brand": "Western Digital",
+        "pn": "WUH722424ALE604",
+        "Type": "HDD/24TB"
+    },
+    {
+        "brand": "Western Digital",
         "pn": "WUH722020BLE604",
         "Type": "HDD/20TB"
     },
