@@ -619,6 +619,21 @@
         "Type": "NVMe/1.92TB"
     },
     {
+        "brand": "Solidigm",
+        "pn": "SSDPF2KX076T1",
+        "Type": "NVMe/7.68TB"
+    },
+    {
+        "brand": "Solidigm",
+        "pn": "SSDPF2KX038T1",
+        "Type": "NVMe/3.84TB"
+    },
+    {
+        "brand": "Solidigm",
+        "pn": "SSDPF2KX019T1M",
+        "Type": "NVMe/1.92TB"
+    },
+    {
         "brand": "KIOXIA",
         "pn": "KCD81RUG3T84",
         "Type": "NVMe/3.84TB"
