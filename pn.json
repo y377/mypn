@@ -1,9 +1,14 @@
 {
-    "_updatedAt": "2025-11-24",
+    "_updatedAt": "2026-01-19",
     "nicPnList": [
     {
         "brand": "Mellanox",
         "pn": "MCX623430MS-CDAB",
+        "Type": "双口"
+    },
+    {
+        "brand": "Nvidia",
+        "pn": "MCX753436MS-HEAB",
         "Type": "双口"
     }],
     "raidPnList": [
