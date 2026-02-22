@@ -694,6 +694,11 @@
         "Type": "HDD/8TB"
     },
     {
+        "brand": "Solid State Storage Technology Corporation",
+        "pn": "PJ1-GW480P",
+        "Type": "M.2/480GB"
+    },
+    {
         "brand": "ByteDance",
         "pn": "BD1124T091T03T8N4",
         "Type": "NVMe/3.84TB"
