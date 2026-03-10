@@ -665,6 +665,11 @@
     },
     {
         "brand": "Seagate",
+        "pn": "ST24000NM002H",
+        "Type": "HDD/24TB"
+    },
+    {
+        "brand": "Seagate",
         "pn": "ST20000NM007D",
         "Type": "HDD/20TB"
     },
