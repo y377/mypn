@@ -684,6 +684,11 @@
         "Type": "NVMe/3.84TB"
     },
     {
+        "brand": "Union Memory",
+        "pn": "UP2A61T9SD004LX",
+        "Type": "NVMe/1.92TB"
+    },
+    {
         "brand": "Western Digital",
         "pn": "WUH722424ALE604",
         "Type": "HDD/24TB"
