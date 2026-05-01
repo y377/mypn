@@ -1452,6 +1452,11 @@
     },
     {
         "brand": "Micron",
+        "pn": "MTC40F2046S1RC56BD2",
+        "Type": "DDR5"
+    },
+    {
+        "brand": "Micron",
         "pn": "MTC20F208XS1RC56BB1",
         "Type": "DDR5"
     },
