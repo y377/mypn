@@ -32,6 +32,11 @@
         "brand": "SUNON",
         "pn": "XG40561BX-1Q338-S9H",
         "Type": "外置"
+    },
+    {
+        "brand": "SUNON",
+        "pn": "XG60561BX-1Q017-S9H",
+        "Type": "内置"
     }],
     "psuPnList": [
     {
