@@ -1783,6 +1783,11 @@
             "brand": "CXMT",
             "pn": "CXMR4E464R8AS",
             "Type": "DDR5"
+        },
+        {
+            "brand": "Samsung",
+            "pn": "M321R8GA0EB2-CWM",
+            "Type": "DDR5"
         }
     ]
 }
